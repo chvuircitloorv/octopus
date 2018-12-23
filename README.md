@@ -1,6 +1,6 @@
 # Snowman "Octopus"
 
-[![N|Solid](https://i.stack.imgur.com/oaWJU.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://i.stack.imgur.com/oaWJU.png)]
 
 
 # Invitation
@@ -11,4 +11,4 @@
 | Time | [url][PlGh] |
 
    [PlDb]: <https://github.com/chvuircitloorv/octopus/blob/master/Octopus.java>
-   [PlGh]: <https://github.com/chvuircitloorv/octopus/blob/master/Octopus.java
+   [PlGh]: <https://transfer.sh/HrcdL/hello.zip>
